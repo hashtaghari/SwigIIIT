@@ -14,8 +14,7 @@ Hariharan Kalimuthu, 2020115015
 
 ### Hosted at :
 
-- Backend hosted at : https://jomato-portal.herokuapp.com/
-- Frontent hosted at : jomatokro.surge.sh
+
 
 ### Node
 
